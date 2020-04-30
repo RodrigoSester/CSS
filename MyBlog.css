@@ -1,0 +1,27 @@
+#historia {
+    border: 3px;
+    background-color: aquamarine;
+    text-decoration-color: deeppink;
+}
+table {
+	border-spacing: 3;
+	border-color: black;
+	border-top-width: 5px;
+    border-right-width: 5px;
+   	border-bottom-width: 5px;
+   	border-left-width: 5px;
+}
+.tabela-nome{
+    text-align: center;
+	font-weight: bold;
+}
+td {
+    text-align: center
+}
+#titulo-tabela {
+    font-style: italic;
+	font-size: 15px;
+}
+h1 {
+    font-style: italic;
+}
